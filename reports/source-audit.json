@@ -21,5 +21,8 @@
     "Frozen bulk discovery evidence is excluded from per-response archive checks; the run report records the complete bulk snapshot hash.",
     "This is provenance and extraction validation, not an independent competition score or completeness assessment.",
     "No source was fetched again during this audit."
-  ]
+  ],
+  "run_id": "northstar-v1-final-20261020",
+  "source_file": "out/smoke-final/envelopes.jsonl",
+  "source_file_sha256": "6daf1a55fd8de636625b371c7b707a25adcad0c959e540f656b5230f4682f9c3"
 }
