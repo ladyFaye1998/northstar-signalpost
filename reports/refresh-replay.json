@@ -1,0 +1,9 @@
+{
+  "method": "Replay the final live profiles through make_envelope with the identical prior envelope and new run timestamps; no network calls. Unit regressions separately cover changed values and failures.",
+  "companies": 100,
+  "material_changes": 0,
+  "missing_evidence_references": 0,
+  "prior_file_unchanged": true,
+  "passed": true,
+  "source_envelopes_sha256": "6daf1a55fd8de636625b371c7b707a25adcad0c959e540f656b5230f4682f9c3"
+}

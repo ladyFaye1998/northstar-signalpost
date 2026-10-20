@@ -1,0 +1,1 @@
+{"command":"uv run --frozen --with pytest==8.4.2 pytest -q","python":"3.12.14","platform":"Windows","passed":147,"failed":0,"duration_seconds":2.50,"date":"2026-10-20","scope":"Reference tests plus Northstar exact-identity, source, contract and refresh regressions; local tests do not establish competition qualification."}

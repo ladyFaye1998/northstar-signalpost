@@ -1,0 +1,328 @@
+[
+  {
+    "package": "annotated-types",
+    "version": "0.8.0",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "babel",
+    "version": "2.18.0",
+    "license_expression": null,
+    "license": "BSD-3-Clause",
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License"
+    ]
+  },
+  {
+    "package": "beautifulsoup4",
+    "version": "4.15.0",
+    "license_expression": null,
+    "license": "MIT License",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "certifi",
+    "version": "2026.7.22",
+    "license_expression": null,
+    "license": "MPL-2.0",
+    "license_classifiers": [
+      "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+    ]
+  },
+  {
+    "package": "charset-normalizer",
+    "version": "3.5.1",
+    "license_expression": null,
+    "license": "MIT",
+    "license_classifiers": []
+  },
+  {
+    "package": "courlan",
+    "version": "1.4.0",
+    "license_expression": "Apache-2.0",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "dateparser",
+    "version": "1.4.2",
+    "license_expression": "BSD-3-Clause",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "extruct",
+    "version": "0.18.0",
+    "license_expression": null,
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License"
+    ]
+  },
+  {
+    "package": "filelock",
+    "version": "3.32.3",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "html-text",
+    "version": "0.7.1",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "html5lib",
+    "version": "1.1",
+    "license_expression": null,
+    "license": "MIT License",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "htmldate",
+    "version": "1.10.0",
+    "license_expression": "Apache-2.0",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "idna",
+    "version": "3.19",
+    "license_expression": "BSD-3-Clause",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "jstyleson",
+    "version": "0.0.2",
+    "license_expression": null,
+    "license": "MIT",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "jusText",
+    "version": "3.0.2",
+    "license_expression": null,
+    "license": "The BSD 2-Clause License",
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License"
+    ]
+  },
+  {
+    "package": "lxml",
+    "version": "6.1.2",
+    "license_expression": null,
+    "license": "BSD-3-Clause",
+    "license_classifiers": []
+  },
+  {
+    "package": "lxml_html_clean",
+    "version": "0.4.5",
+    "license_expression": null,
+    "license": "BSD-3-Clause",
+    "license_classifiers": []
+  },
+  {
+    "package": "mf2py",
+    "version": "2.0.1",
+    "license_expression": null,
+    "license": "MIT",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "pydantic",
+    "version": "2.13.4",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "pydantic_core",
+    "version": "2.46.4",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "pyparsing",
+    "version": "3.3.2",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "pypdf",
+    "version": "6.16.1",
+    "license_expression": "BSD-3-Clause",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "pyrdfa3",
+    "version": "3.6.5",
+    "license_expression": null,
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: W3C License"
+    ]
+  },
+  {
+    "package": "python-dateutil",
+    "version": "2.9.0.post0",
+    "license_expression": null,
+    "license": "Dual License",
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License",
+      "License :: OSI Approved :: Apache Software License"
+    ]
+  },
+  {
+    "package": "pytz",
+    "version": "2026.3.post1",
+    "license_expression": null,
+    "license": "MIT",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "rdflib",
+    "version": "7.6.0",
+    "license_expression": null,
+    "license": "BSD-3-Clause",
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License"
+    ]
+  },
+  {
+    "package": "regex",
+    "version": "2026.7.19",
+    "license_expression": "Apache-2.0 AND CNRI-Python",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "requests",
+    "version": "2.34.2",
+    "license_expression": null,
+    "license": "Apache-2.0",
+    "license_classifiers": [
+      "License :: OSI Approved :: Apache Software License"
+    ]
+  },
+  {
+    "package": "requests-file",
+    "version": "3.0.1",
+    "license_expression": null,
+    "license": "Apache 2.0",
+    "license_classifiers": [
+      "License :: OSI Approved :: Apache Software License"
+    ]
+  },
+  {
+    "package": "six",
+    "version": "1.17.0",
+    "license_expression": null,
+    "license": "MIT",
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "soupsieve",
+    "version": "2.9.2",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: MIT License"
+    ]
+  },
+  {
+    "package": "tld",
+    "version": "0.13.2",
+    "license_expression": "MPL-1.1 OR GPL-2.0-only OR LGPL-2.1-or-later",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "tldextract",
+    "version": "5.3.2",
+    "license_expression": "BSD-3-Clause",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "trafilatura",
+    "version": "2.2.0",
+    "license_expression": "Apache-2.0",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "typing-inspection",
+    "version": "0.4.4",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "typing_extensions",
+    "version": "4.16.0",
+    "license_expression": "PSF-2.0",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "tzdata",
+    "version": "2026.3",
+    "license_expression": null,
+    "license": "Apache-2.0",
+    "license_classifiers": []
+  },
+  {
+    "package": "tzlocal",
+    "version": "5.4.4",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "urllib3",
+    "version": "2.7.0",
+    "license_expression": "MIT",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "w3lib",
+    "version": "2.4.1",
+    "license_expression": "BSD-3-Clause",
+    "license": null,
+    "license_classifiers": []
+  },
+  {
+    "package": "webencodings",
+    "version": "0.6.1",
+    "license_expression": null,
+    "license": null,
+    "license_classifiers": [
+      "License :: OSI Approved :: BSD License"
+    ]
+  }
+]

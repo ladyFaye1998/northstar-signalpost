@@ -1,0 +1,25 @@
+{
+  "run": "smoke-final",
+  "audited_at": "2026-10-20T19:36:08.617030+00:00",
+  "companies_checked": 100,
+  "available_evidence_references_checked": 4064,
+  "distinct_archived_snapshots_checked": 388,
+  "official_json_pointer_references_checked": 3988,
+  "official_identity_records_checked": 377,
+  "website_evidence_references_checked": 76,
+  "website_dom_references_checked": 73,
+  "failures": {},
+  "passed": true,
+  "method": [
+    "Checked archived source existence and SHA-256 for every available non-bulk claim evidence reference.",
+    "Resolved official JSON pointers against archived response bytes and compared the serialized evidence values.",
+    "Verified each available registry and annual-account record belongs to its requested organization number.",
+    "Required the exact-entity website gate for every available company-site evidence reference.",
+    "Reparsed archived HTML to verify observed outbound/contact links and locally dated article-card titles."
+  ],
+  "scope_limits": [
+    "Frozen bulk discovery evidence is excluded from per-response archive checks; the run report records the complete bulk snapshot hash.",
+    "This is provenance and extraction validation, not an independent competition score or completeness assessment.",
+    "No source was fetched again during this audit."
+  ]
+}
